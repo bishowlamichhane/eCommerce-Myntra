@@ -13,4 +13,3 @@ function storeItems(items) {
 
 exports.getStoredItems = getStoredItems;
 exports.storeItems = storeItems;
-
